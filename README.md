@@ -3,4 +3,5 @@
 
 ## Overview and Origin
 
-Marcus by goldman sachs is the case study that im working on, the company idea was intituated in 2015
+Marcus by Goldman Sachs is a FinTech offering and a brand of Goldman Sachs Bank USA, a Subsidiarie of Goldman Sachs Group INC.
+The Company was Stablished in 2016, followed by the acquisition of GE Capital Bank's US online deposits platform, This transaction Doubled the firms client base
