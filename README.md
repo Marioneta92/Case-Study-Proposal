@@ -16,4 +16,28 @@ Marcus is working with Nav Technologies, Inc. (“Nav”) to leverage Machine Le
 
 ## Landscape
 
-Marcus is in the Personal Finance/Deposits/Online Banking/Digital Investing Domains. And with the rapid change of technology in the past 10-15 yrs have made a profound change to personal finance, Brick and Mortar Bank operations. Mobile banking provides convenient features that are increasingly sophisticated and capable of Market and Industry Disruption and As consumers become more familiar and confident in mobile technology, the use of apps and web tools for banking will increase.  
+Marcus is in the Personal Finance/Deposits/Online Banking/Digital Investing Domains. And with the rapid change of technology in the past 10-15 yrs have made a profound change to personal finance, and Brick and Mortar Bank operations. Mobile banking provides convenient features that are increasingly sophisticated and capable of Market and Industry Disruption and As consumers become more familiar and confident in mobile technology, the use of apps and web tools for banking will increase. Other Digital competitors would be SoFi Bank and Ally, which are now offering the same services as Marcus and more Firms are coming online with their offerings.
+
+## Results
+
+The Business impact of Marcus has been inching closer and closer to the rate of which Mobile progression and trends Emerge. The consumers want more flexibility and ease of use directly from their devices, but also product interphase.
+Marcus and other Fintech Companies are using Core Metrics to measure- Active Clients, Applications Launch and Load times, Goal Abandonment Rate, Task Completion Rate, Application Functionality and many others Marcus seems to be utilysing all this metrics to offer a service thats reliable, and convinient to the consumer and Marcus is in the the leading spot. All the research and tests implement by Marcus shows the acceptance from the consumers to the ease of the service in regards to other institutions that are lagging behind in implementation.
+
+
+## Recommendations
+
+If i were to advise Marcus on their next offerings, it would be the sector of Bitcoin and Blcokchain. Crypto Currency is at an emerging stage and i would bring the case of " why wait?" Tobe proactive and not reactive. I believe that by offering Crypto, this would most likely diversify the firm,s ability to offer a wide range of innovative and evolving products. The use of Various Coding technologies such as Python/Anaconda would be useful to keep up with the evolving techniques tied to Crypto. This technologies needed are industry needed and used, not just for Crypto but also Development of current and future Technologies.
+
+
+
+## Marcus By Goldman sachs
+Workscited Page.
+
+-https://www.marcus.com/us/en/faqs#general
+-https://www.goldmansachs.com/our-firm/history/moments/2016-marcus.html
+-https://fintechbusinessweekly.substack.com/p/goldmans-marcus-losses-could-top
+-https://www.customercontactweekdigital.com/customer-insights-analytics/articles/goldman-sachs-on-launching-a-customer-oriented-digital-only-bank
+-https://www.valuepenguin.com/banking/statistics-and-trends
+-https://culytics.com/blogs/top-kpis-for-online-banking
+-https://www.globenewswire.com/en/news-release/2022/06/01/2454422/0/en/Nav-Teams-Up-with-Marcus-by-Goldman-Sachs-to-Offer-Small-Business-Owners-Lin
+
