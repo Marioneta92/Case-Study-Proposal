@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/114365472/201402940-2d8925e3-52a3-4e15-afec-74be7cbd5721.png)
+
+
+
 # Case Study Proposal
 # Marcus
 
